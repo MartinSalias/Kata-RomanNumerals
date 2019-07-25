@@ -10,7 +10,7 @@ SPECS
 
 - Zero does not exist (Caesar said so)
 - There are no negative numbers (the Roman Empire never shrinks)
-- We won't implement beyond 59 (just to abreviate)
+- We won't implement beyond 59 (just to abbreviate)
 
 - Conversion table
   I = 1
